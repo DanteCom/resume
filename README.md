@@ -13,13 +13,13 @@
 ---
 
 ## ⚡ Skills & Projects
-- 💻 Programming: Dart, Flutter, Python, JavaScript  
-- 🌐 Web: HTML, CSS, React  
+- 💻 Programming: Dart, Flutter
 - 📱 Mobile: Flutter apps  
 - 🏆 Projects: [My Portfolio](https://github.com/DanteCom)  
 
 ---
 
 ## 📬 Contacts
-- LinkedIn: [DanteCom](https://linkedin.com/in/твоя-ссылка)  
 - Email: [dantecom21@gmail.com](mailto:dantecom21@gmail.com) 
+- HH.ru: [Мой профиль](https://hh.ru/resume/2e97329eff0eeba7480039ed1f464476367442)
+- LinkedIn: [DanteCom](https://linkedin.com/in/muhammad-amin-akhmedkhodjaev-353500381)  
